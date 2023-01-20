@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "/"
+    "url": "https://github.com/Pufikas/bad-apple-js"
   },
   "keywords": [
-    "bad",
-    "apple"
+    "bad-apple",
+    "bad-apple-js"
   ],
   "author": "Pufikas",
   "license": "ISC",
