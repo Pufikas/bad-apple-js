@@ -1,2 +1,8 @@
-# bad-apple-js
+# Use
+
+Install the required packages
+`npm i`
+
+Start with
+`npm start`
  
