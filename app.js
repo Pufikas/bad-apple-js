@@ -8,6 +8,7 @@ const c = (t) => {
   let a = t.split(/\d$/gm)
   let p = ++x * (1/30) * 1000
   let D2 = Date.now() - D
+  console.log(a[1]),
   console.log(a[2]),
   (s = Date.now()),
   setTimeout(() => {
